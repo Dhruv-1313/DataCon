@@ -1,4 +1,4 @@
-# Steganographyx
+# DataCon
 Image Steganography:
 
 Encode class: Handles encoding (hiding) secret messages within images.
